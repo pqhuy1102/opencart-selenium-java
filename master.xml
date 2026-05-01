@@ -7,7 +7,7 @@
     </groups>
 
     <test name="Chrome" >
-        <parameter name="os" value="Linux"/>
+        <parameter name="os" value="Mac"/>
         <parameter name="browser" value="Chrome"/>
         <classes>
             <class name="tests.AccountRegisterTest"/>

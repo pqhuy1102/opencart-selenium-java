@@ -97,7 +97,7 @@ public class BaseTest {
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
-        driver.get("http://opencart-4103-opencart-1:80");
+        driver.get("http://localhost");
         driver.manage().window().maximize();
 
         extent = ExtentReportManager.getInstance();
