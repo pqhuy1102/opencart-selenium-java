@@ -1,0 +1,837 @@
+01:14:22.979 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml"
+01:14:23.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+01:14:25.160 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:14:25.216 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:14:26.384 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:14:33.048 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+01:21:11.341 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml"
+01:21:11.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+01:21:13.927 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:21:13.981 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:21:15.109 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:22:27.675 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml"
+01:22:27.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+01:22:30.003 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:22:30.245 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:22:31.423 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:27:13.837 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml"
+01:27:13.921 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+01:27:16.108 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:27:16.168 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:27:17.323 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:27:23.991 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+01:27:35.890 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml"
+01:27:35.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+01:27:37.877 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:27:37.932 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:27:39.132 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:27:45.782 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+01:27:45.782 [main] ERROR tests.AccountRegisterTest - Error message: expected [Your Account Has Been Createdd!] but found [Your Account Has Been Created!]
+01:27:45.782 [main] DEBUG tests.AccountRegisterTest - Debug...
+17:53:01.777 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:53:01.887 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:53:05.674 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:53:05.771 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:53:06.947 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:53:13.831 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+17:53:13.831 [main] ERROR tests.AccountRegisterTest - Error message: expected [Your Account Has Been Createdd!] but found [Your Account Has Been Created!]
+17:53:13.832 [main] DEBUG tests.AccountRegisterTest - Debug...
+17:53:42.902 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:53:42.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:53:55.341 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:53:55.401 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:53:56.557 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:54:03.198 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+18:00:22.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+18:00:22.223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+18:00:27.367 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+18:00:27.454 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+18:00:28.631 [main] INFO  tests.AccountRegisterTest - Click on Register link
+18:00:35.336 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+18:00:37.488 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+18:00:37.545 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+18:00:38.709 [main] INFO  tests.AccountRegisterTest - Click on Register link
+18:00:45.525 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+18:01:04.104 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+18:01:04.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+18:01:06.264 [TestNG-tests-2] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+18:01:06.356 [TestNG-tests-2] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+18:01:07.335 [TestNG-tests-1] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+18:01:07.406 [TestNG-tests-1] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+18:01:07.485 [TestNG-tests-2] INFO  tests.AccountRegisterTest - Click on Register link
+18:01:08.560 [TestNG-tests-1] INFO  tests.AccountRegisterTest - Click on Register link
+18:01:14.145 [TestNG-tests-2] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+18:01:15.260 [TestNG-tests-1] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+18:11:29.271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+18:11:29.363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+18:11:31.504 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+18:11:31.568 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+18:11:32.730 [main] INFO  tests.AccountRegisterTest - Click on Register link
+18:11:39.399 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+00:39:44.900 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+00:39:44.997 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+00:39:49.735 [main] INFO  tests.LoginTest - ---Login Test started---
+00:39:49.768 [main] INFO  tests.LoginTest - Click on Login Link
+00:40:46.872 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+00:40:46.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+00:40:49.002 [main] INFO  tests.LoginTest - ---Login Test started---
+00:40:49.013 [main] INFO  tests.LoginTest - Click on Account dropdown
+00:40:49.059 [main] INFO  tests.LoginTest - Click on Login Link
+00:40:49.175 [main] INFO  tests.LoginTest - Login with email and password
+00:41:18.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+00:41:18.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+00:41:20.687 [main] INFO  tests.LoginTest - ---Login Test started---
+00:41:20.696 [main] INFO  tests.LoginTest - Click on Account dropdown
+00:41:20.742 [main] INFO  tests.LoginTest - Click on Login Link
+00:41:20.846 [main] INFO  tests.LoginTest - Login with email and password
+22:26:12.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:26:12.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:28:41.807 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:28:41.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:33:07.007 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:33:07.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:35:33.715 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:35:33.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:39:23.238 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:39:23.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:39:25.698 [main] INFO  tests.LoginTest - ---Login Test started---
+22:39:25.707 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:39:25.756 [main] INFO  tests.LoginTest - Click on Login Link
+22:39:25.849 [main] INFO  tests.LoginTest - Login with email and password
+22:39:27.343 [main] INFO  tests.LoginTest - ---Login Test started---
+22:39:27.343 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:39:28.403 [main] INFO  tests.LoginTest - ---Login Test started---
+22:39:28.404 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:39:29.427 [main] INFO  tests.LoginTest - ---Login Test started---
+22:39:29.427 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:39:30.479 [main] INFO  tests.LoginTest - ---Login Test started---
+22:39:30.479 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:43:35.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml"
+22:43:35.557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+22:43:55.968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:43:56.060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:43:58.166 [main] INFO  tests.LoginTest - ---Login Test started---
+22:43:58.174 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:43:58.225 [main] INFO  tests.LoginTest - Click on Login Link
+22:43:58.333 [main] INFO  tests.LoginTest - Login with email and password
+22:46:03.677 [main] INFO  tests.LoginTest - ---Login Test started---
+22:46:03.679 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:46:03.741 [main] INFO  tests.LoginTest - Click on Login Link
+22:47:41.528 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:47:41.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:47:43.767 [main] INFO  tests.LoginTest - ---Login Test started---
+22:47:43.774 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:47:43.811 [main] INFO  tests.LoginTest - Click on Login Link
+22:47:43.909 [main] INFO  tests.LoginTest - Login with email and password
+22:47:44.505 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:47:44.507 [main] INFO  tests.LoginTest - ---Login Test started---
+22:47:44.507 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:47:44.538 [main] INFO  tests.LoginTest - Click on Login Link
+22:47:44.626 [main] INFO  tests.LoginTest - Login with email and password
+22:47:45.103 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:47:45.104 [main] INFO  tests.LoginTest - ---Login Test started---
+22:47:45.104 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:47:45.136 [main] INFO  tests.LoginTest - Click on Login Link
+22:47:45.222 [main] INFO  tests.LoginTest - Login with email and password
+22:47:55.384 [main] INFO  tests.LoginTest - ---Login Test started---
+22:47:55.384 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:47:55.419 [main] INFO  tests.LoginTest - Click on Login Link
+22:47:55.520 [main] INFO  tests.LoginTest - Login with email and password
+22:48:05.708 [main] INFO  tests.LoginTest - ---Login Test started---
+22:48:05.709 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:48:05.738 [main] INFO  tests.LoginTest - Click on Login Link
+22:48:05.826 [main] INFO  tests.LoginTest - Login with email and password
+22:48:06.287 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:52:00.373 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:52:00.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:52:03.034 [main] INFO  tests.LoginTest - ---Login Test started---
+22:52:03.042 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:52:03.082 [main] INFO  tests.LoginTest - Click on Login Link
+22:52:03.197 [main] INFO  tests.LoginTest - Login with email and password
+22:52:18.544 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:52:25.427 [main] INFO  tests.LoginTest - ---Login Test started---
+22:52:25.428 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:52:25.474 [main] INFO  tests.LoginTest - Click on Login Link
+22:52:25.581 [main] INFO  tests.LoginTest - Login with email and password
+22:52:35.273 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:52:35.274 [main] INFO  tests.LoginTest - ---Login Test started---
+22:52:35.274 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:52:35.304 [main] INFO  tests.LoginTest - Click on Login Link
+22:52:35.388 [main] INFO  tests.LoginTest - Login with email and password
+22:52:45.540 [main] INFO  tests.LoginTest - ---Login Test started---
+22:52:45.540 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:52:45.576 [main] INFO  tests.LoginTest - Click on Login Link
+22:52:45.688 [main] INFO  tests.LoginTest - Login with email and password
+22:52:55.862 [main] INFO  tests.LoginTest - ---Login Test started---
+22:52:55.862 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:52:55.891 [main] INFO  tests.LoginTest - Click on Login Link
+22:52:55.983 [main] INFO  tests.LoginTest - Login with email and password
+22:53:03.676 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:53:40.412 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:53:40.509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:53:42.507 [main] INFO  tests.LoginTest - ---Login Test started---
+22:53:42.514 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:53:42.556 [main] INFO  tests.LoginTest - Click on Login Link
+22:53:42.662 [main] INFO  tests.LoginTest - Login with email and password
+22:53:53.251 [main] INFO  tests.LoginTest - ---Login Test started---
+22:53:53.251 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:53:53.280 [main] INFO  tests.LoginTest - Click on Login Link
+22:53:53.368 [main] INFO  tests.LoginTest - Login with email and password
+22:54:05.828 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:54:05.836 [main] INFO  tests.LoginTest - ---Login Test started---
+22:54:05.837 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:54:05.889 [main] INFO  tests.LoginTest - Click on Login Link
+22:54:05.976 [main] INFO  tests.LoginTest - Login with email and password
+22:54:16.678 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:54:16.680 [main] INFO  tests.LoginTest - ---Login Test started---
+22:54:16.681 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:54:16.731 [main] INFO  tests.LoginTest - Click on Login Link
+22:54:16.841 [main] INFO  tests.LoginTest - Login with email and password
+22:54:27.036 [main] INFO  tests.LoginTest - ---Login Test started---
+22:54:27.037 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:54:27.067 [main] INFO  tests.LoginTest - Click on Login Link
+22:54:27.169 [main] INFO  tests.LoginTest - Login with email and password
+22:54:34.712 [main] INFO  tests.LoginTest - ---Login Test finished---
+22:55:25.925 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:55:26.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:55:28.124 [main] INFO  tests.LoginTest - ---Login Test started---
+22:55:28.131 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:55:28.171 [main] INFO  tests.LoginTest - Click on Login Link
+22:55:28.267 [main] INFO  tests.LoginTest - Login with email and password
+22:55:38.531 [main] INFO  tests.LoginTest - ---Login Test started---
+22:55:38.531 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:55:38.562 [main] INFO  tests.LoginTest - Click on Login Link
+22:55:38.652 [main] INFO  tests.LoginTest - Login with email and password
+22:56:04.556 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:56:04.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:56:06.612 [main] INFO  tests.LoginTest - ---Login Test started---
+22:56:06.618 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:56:06.658 [main] INFO  tests.LoginTest - Click on Login Link
+22:56:06.764 [main] INFO  tests.LoginTest - Login with email and password
+22:57:36.609 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+22:57:36.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+22:57:38.754 [main] INFO  tests.LoginTest - ---Login Test started---
+22:57:38.761 [main] INFO  tests.LoginTest - Click on Account dropdown
+22:57:38.811 [main] INFO  tests.LoginTest - Click on Login Link
+22:57:38.906 [main] INFO  tests.LoginTest - Login with email and password
+23:21:10.713 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+23:21:10.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+23:21:13.003 [main] INFO  tests.LoginTest - ---Login Test started---
+23:21:13.009 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:21:13.048 [main] INFO  tests.LoginTest - Click on Login Link
+23:21:13.143 [main] INFO  tests.LoginTest - Login with email and password
+23:21:23.426 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:21:23.427 [main] INFO  tests.LoginTest - ---Login Test started---
+23:21:23.428 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:21:23.459 [main] INFO  tests.LoginTest - Click on Login Link
+23:21:23.545 [main] INFO  tests.LoginTest - Login with email and password
+23:21:24.013 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:21:24.014 [main] INFO  tests.LoginTest - ---Login Test started---
+23:21:24.014 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:21:24.046 [main] INFO  tests.LoginTest - Click on Login Link
+23:21:24.154 [main] INFO  tests.LoginTest - Login with email and password
+23:21:24.614 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:21:24.616 [main] INFO  tests.LoginTest - ---Login Test started---
+23:21:24.616 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:21:24.646 [main] INFO  tests.LoginTest - Click on Login Link
+23:21:24.728 [main] INFO  tests.LoginTest - Login with email and password
+23:21:34.915 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:21:34.916 [main] INFO  tests.LoginTest - ---Login Test started---
+23:21:34.916 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:21:34.945 [main] INFO  tests.LoginTest - Click on Login Link
+23:21:35.031 [main] INFO  tests.LoginTest - Login with email and password
+23:21:35.477 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:22:21.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+23:22:21.096 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+23:22:23.319 [main] INFO  tests.LoginTest - ---Login Test started---
+23:22:23.326 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:22:23.364 [main] INFO  tests.LoginTest - Click on Login Link
+23:22:23.477 [main] INFO  tests.LoginTest - Login with email and password
+23:22:33.717 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:22:33.718 [main] INFO  tests.LoginTest - ---Login Test started---
+23:22:33.719 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:22:33.750 [main] INFO  tests.LoginTest - Click on Login Link
+23:22:33.839 [main] INFO  tests.LoginTest - Login with email and password
+23:22:34.121 [main] INFO  tests.LoginTest - ---Login Test started---
+23:22:34.122 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:22:34.149 [main] INFO  tests.LoginTest - Click on Login Link
+23:22:44.177 [main] ERROR tests.LoginTest - Login test failed with unexpected error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='dropdown-item'][normalize-space()='Login']"}
+  (Session info: chrome=146.0.7680.178)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [45bcdda4967d2fcc8e04e4acf831ae4a, findElement {value=//a[@class='dropdown-item'][normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.178, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/0k/cmb3w4z13qx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, goog:processID: 13119, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 146.0.7680.178, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45bcdda4967d2fcc8e04e4acf831ae4a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source)
+	at pageObjects.HomePage.clickLoginButton(HomePage.java:26)
+	at tests.LoginTest.loginTest(LoginTest.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+23:22:44.182 [main] INFO  tests.LoginTest - ---Login Test started---
+23:22:44.182 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:22:44.211 [main] INFO  tests.LoginTest - Click on Login Link
+23:22:54.238 [main] ERROR tests.LoginTest - Login test failed with unexpected error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='dropdown-item'][normalize-space()='Login']"}
+  (Session info: chrome=146.0.7680.178)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [45bcdda4967d2fcc8e04e4acf831ae4a, findElement {value=//a[@class='dropdown-item'][normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.178, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/0k/cmb3w4z13qx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, goog:processID: 13119, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 146.0.7680.178, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45bcdda4967d2fcc8e04e4acf831ae4a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source)
+	at pageObjects.HomePage.clickLoginButton(HomePage.java:26)
+	at tests.LoginTest.loginTest(LoginTest.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+23:22:54.240 [main] INFO  tests.LoginTest - ---Login Test started---
+23:22:54.240 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:22:54.268 [main] INFO  tests.LoginTest - Click on Login Link
+23:23:04.310 [main] ERROR tests.LoginTest - Login test failed with unexpected error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='dropdown-item'][normalize-space()='Login']"}
+  (Session info: chrome=146.0.7680.178)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [45bcdda4967d2fcc8e04e4acf831ae4a, findElement {value=//a[@class='dropdown-item'][normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.178, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/0k/cmb3w4z13qx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60881}, goog:processID: 13119, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60881/devtoo..., se:cdpVersion: 146.0.7680.178, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45bcdda4967d2fcc8e04e4acf831ae4a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source)
+	at pageObjects.HomePage.clickLoginButton(HomePage.java:26)
+	at tests.LoginTest.loginTest(LoginTest.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+23:25:26.440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+23:25:26.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+23:25:28.575 [main] INFO  tests.LoginTest - ---Login Test started---
+23:25:28.582 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:25:28.621 [main] INFO  tests.LoginTest - Click on Login Link
+23:25:28.724 [main] INFO  tests.LoginTest - Login with email and password
+23:25:38.944 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:25:38.945 [main] INFO  tests.LoginTest - ---Login Test started---
+23:25:38.945 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:25:38.975 [main] INFO  tests.LoginTest - Click on Login Link
+23:25:39.066 [main] INFO  tests.LoginTest - Login with email and password
+23:25:39.533 [main] INFO  tests.LoginTest - ---Login Test started---
+23:25:39.533 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:25:39.563 [main] INFO  tests.LoginTest - Click on Login Link
+23:25:39.646 [main] INFO  tests.LoginTest - Login with email and password
+23:25:40.167 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:25:40.168 [main] INFO  tests.LoginTest - ---Login Test started---
+23:25:40.168 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:25:40.200 [main] INFO  tests.LoginTest - Click on Login Link
+23:25:40.290 [main] INFO  tests.LoginTest - Login with email and password
+23:25:50.444 [main] INFO  tests.LoginTest - ---Login Test finished---
+23:25:50.446 [main] INFO  tests.LoginTest - ---Login Test started---
+23:25:50.446 [main] INFO  tests.LoginTest - Click on Account dropdown
+23:25:50.480 [main] INFO  tests.LoginTest - Click on Login Link
+23:25:50.574 [main] INFO  tests.LoginTest - Login with email and password
+23:25:51.027 [main] INFO  tests.LoginTest - ---Login Test finished---
+00:41:09.536 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+00:41:09.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+09:28:20.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+09:28:20.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+09:28:27.671 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+09:28:27.786 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+09:28:29.054 [main] INFO  tests.AccountRegisterTest - Click on Register link
+09:28:35.842 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+09:29:27.863 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+09:29:27.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+09:29:35.650 [main] INFO  tests.LoginTest - ---Login Test started---
+09:29:35.656 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:29:35.697 [main] INFO  tests.LoginTest - Click on Login Link
+09:29:36.072 [main] INFO  tests.LoginTest - Login with email and password
+09:29:46.322 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:29:46.324 [main] INFO  tests.LoginTest - ---Login Test started---
+09:29:46.324 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:29:46.360 [main] INFO  tests.LoginTest - Click on Login Link
+09:29:46.466 [main] INFO  tests.LoginTest - Login with email and password
+09:29:47.111 [main] INFO  tests.LoginTest - ---Login Test started---
+09:29:47.111 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:29:47.137 [main] INFO  tests.LoginTest - Click on Login Link
+09:29:47.234 [main] INFO  tests.LoginTest - Login with email and password
+09:29:47.713 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:29:47.714 [main] INFO  tests.LoginTest - ---Login Test started---
+09:29:47.715 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:29:47.766 [main] INFO  tests.LoginTest - Click on Login Link
+09:29:47.850 [main] INFO  tests.LoginTest - Login with email and password
+09:29:58.026 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:29:58.027 [main] INFO  tests.LoginTest - ---Login Test started---
+09:29:58.027 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:29:58.056 [main] INFO  tests.LoginTest - Click on Login Link
+09:29:58.157 [main] INFO  tests.LoginTest - Login with email and password
+09:29:58.628 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:30:19.732 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+09:30:19.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+09:30:21.684 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+09:30:21.732 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+09:30:22.837 [main] INFO  tests.AccountRegisterTest - Click on Register link
+09:30:29.415 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+09:30:32.132 [main] INFO  tests.LoginTest - ---Login Test started---
+09:30:32.133 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:30:32.191 [main] INFO  tests.LoginTest - Click on Login Link
+09:30:32.326 [main] INFO  tests.LoginTest - Login with email and password
+09:30:42.681 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:30:42.683 [main] INFO  tests.LoginTest - ---Login Test started---
+09:30:42.683 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:30:42.717 [main] INFO  tests.LoginTest - Click on Login Link
+09:30:42.845 [main] INFO  tests.LoginTest - Login with email and password
+09:30:43.378 [main] INFO  tests.LoginTest - ---Login Test started---
+09:30:43.378 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:30:43.413 [main] INFO  tests.LoginTest - Click on Login Link
+09:30:43.503 [main] INFO  tests.LoginTest - Login with email and password
+09:30:43.965 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:30:43.966 [main] INFO  tests.LoginTest - ---Login Test started---
+09:30:43.967 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:30:43.996 [main] INFO  tests.LoginTest - Click on Login Link
+09:30:44.084 [main] INFO  tests.LoginTest - Login with email and password
+09:30:54.255 [main] INFO  tests.LoginTest - ---Login Test finished---
+09:30:54.257 [main] INFO  tests.LoginTest - ---Login Test started---
+09:30:54.258 [main] INFO  tests.LoginTest - Click on Account dropdown
+09:30:54.299 [main] INFO  tests.LoginTest - Click on Login Link
+09:30:54.428 [main] INFO  tests.LoginTest - Login with email and password
+09:30:54.905 [main] INFO  tests.LoginTest - ---Login Test finished---
+17:01:30.668 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:01:30.802 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:03:18.071 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:03:18.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:03:22.685 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:03:22.768 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:03:24.008 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:03:30.779 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:09:04.649 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:09:04.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:09:07.401 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:09:07.470 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:09:08.599 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:09:15.275 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:09:36.518 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:09:36.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:09:38.929 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:09:38.994 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:09:40.141 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:09:46.787 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:12:00.627 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:12:00.729 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:12:03.263 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:12:03.324 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:12:04.459 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:12:11.149 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:16:10.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:16:10.395 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:16:12.893 [TestNG-tests-1] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:16:12.974 [TestNG-tests-1] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:16:14.101 [TestNG-tests-1] INFO  tests.AccountRegisterTest - Click on Register link
+17:16:20.742 [TestNG-tests-1] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:16:31.003 [TestNG-tests-2] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:16:31.062 [TestNG-tests-2] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:16:32.204 [TestNG-tests-2] INFO  tests.AccountRegisterTest - Click on Register link
+17:16:38.760 [TestNG-tests-2] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+17:48:24.141 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+17:48:24.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+17:48:28.310 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+17:48:28.384 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+17:48:29.506 [main] INFO  tests.AccountRegisterTest - Click on Register link
+17:48:36.343 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+19:45:47.692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+19:45:47.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+20:39:40.694 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+20:39:40.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+20:42:28.880 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+20:42:28.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+20:43:54.579 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+20:43:54.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:18:50.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:18:50.472 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:30:57.930 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:30:58.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:33:10.014 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:33:10.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:37:09.777 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:37:09.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:38:36.353 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:38:36.443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:39:21.742 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:39:21.829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:39:27.140 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:39:27.451 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:39:29.682 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:39:40.738 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+01:39:40.739 [main] ERROR tests.AccountRegisterTest - Error message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=122.0.6261.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [df964ea59bdbeba08cb3a3b1711c7f20, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.69, chrome: {chromedriverVersion: 122.0.6261.69 (81bc525b6a36..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34517}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.20.0.4:4444/sessio..., se:cdpVersion: 122.0.6261.69, se:vnc: ws://172.20.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.20.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df964ea59bdbeba08cb3a3b1711c7f20
+01:39:40.739 [main] DEBUG tests.AccountRegisterTest - Debug...
+01:41:58.888 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:41:59.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:42:04.652 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:42:45.335 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:42:58.102 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:48:16.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:48:16.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:48:21.899 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:48:22.176 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:48:24.319 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:48:35.410 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+01:48:35.411 [main] ERROR tests.AccountRegisterTest - Error message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=122.0.6261.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5d2e9341d02b23fe22cb9efa77c456ff, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.69, chrome: {chromedriverVersion: 122.0.6261.69 (81bc525b6a36..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:42969}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.20.0.3:4444/sessio..., se:cdpVersion: 122.0.6261.69, se:vnc: ws://172.20.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.20.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d2e9341d02b23fe22cb9efa77c456ff
+01:48:35.411 [main] DEBUG tests.AccountRegisterTest - Debug...
+01:50:12.615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+01:50:12.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+01:50:18.050 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+01:50:18.295 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+01:50:20.455 [main] INFO  tests.AccountRegisterTest - Click on Register link
+01:50:31.558 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+01:50:31.562 [main] ERROR tests.AccountRegisterTest - Error message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=122.0.6261.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [833dca7a64136fbe4a0796a5ba7c409a, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.69, chrome: {chromedriverVersion: 122.0.6261.69 (81bc525b6a36..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:44245}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.20.0.3:4444/sessio..., se:cdpVersion: 122.0.6261.69, se:vnc: ws://172.20.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.20.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 833dca7a64136fbe4a0796a5ba7c409a
+01:50:31.562 [main] DEBUG tests.AccountRegisterTest - Debug...
+12:39:39.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+12:39:39.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+12:40:07.135 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+12:40:07.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+12:40:11.137 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+12:40:11.219 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+12:40:12.477 [main] INFO  tests.AccountRegisterTest - Click on Register link
+12:40:19.268 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+12:44:46.717 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+12:44:46.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+12:59:01.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+12:59:01.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:00:02.601 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:00:02.686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:00:07.773 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:00:08.025 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:00:10.158 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:00:21.235 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+13:00:21.236 [main] ERROR tests.AccountRegisterTest - Error message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=122.0.6261.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.8.5', java.version: '22.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f6cb5d6d93045e799f0fed2491d86619, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.69, chrome: {chromedriverVersion: 122.0.6261.69 (81bc525b6a36..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.20.0.4:4444/sessio..., se:cdpVersion: 122.0.6261.69, se:vnc: ws://172.20.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.20.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f6cb5d6d93045e799f0fed2491d86619
+13:00:21.236 [main] DEBUG tests.AccountRegisterTest - Debug...
+13:11:01.726 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:11:01.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:11:08.057 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:11:08.334 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:11:10.507 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:11:42.125 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+13:11:42.126 [main] ERROR tests.AccountRegisterTest - Error message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-firstname']' (tried for 20 second(s) with 500 milliseconds interval)
+13:11:42.126 [main] DEBUG tests.AccountRegisterTest - Debug...
+13:15:26.335 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:15:26.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:15:31.817 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:15:32.067 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:15:34.196 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:16:05.917 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+13:16:05.918 [main] ERROR tests.AccountRegisterTest - Error message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-firstname']' (tried for 20 second(s) with 500 milliseconds interval)
+13:16:05.918 [main] DEBUG tests.AccountRegisterTest - Debug...
+13:20:38.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:20:38.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:20:44.106 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:20:44.343 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:20:46.475 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:21:18.194 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+13:21:18.196 [main] ERROR tests.AccountRegisterTest - Error message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-firstname']' (tried for 20 second(s) with 500 milliseconds interval)
+13:21:18.196 [main] DEBUG tests.AccountRegisterTest - Debug...
+13:25:35.271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:25:35.365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:25:40.501 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:25:40.745 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:25:42.884 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:26:14.517 [main] ERROR tests.AccountRegisterTest - --- Error in Register Account test ---
+13:26:14.521 [main] ERROR tests.AccountRegisterTest - Error message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-firstname']' (tried for 20 second(s) with 500 milliseconds interval)
+13:26:14.521 [main] DEBUG tests.AccountRegisterTest - Debug...
+13:33:09.422 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:33:09.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+13:33:15.804 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+13:33:16.056 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+13:33:17.340 [main] INFO  tests.AccountRegisterTest - Click on Register link
+13:33:25.068 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+13:52:37.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+13:52:37.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+14:02:18.864 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+14:02:19.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/lap14502/Documents/automation/OpenCart/master.xml
+
+14:02:24.965 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+14:02:25.196 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+14:02:26.446 [main] INFO  tests.AccountRegisterTest - Click on Register link
+14:02:33.894 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
+15:16:01.668 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/lap14502/Documents/automation/OpenCart/master.xml"
+15:16:09.930 [main] INFO  tests.AccountRegisterTest - --- Start Register Account test ---
+15:16:10.161 [main] INFO  tests.AccountRegisterTest - Click on My Account dropdown
+15:16:11.545 [main] INFO  tests.AccountRegisterTest - Click on Register link
+15:16:19.228 [main] INFO  tests.AccountRegisterTest - --- End Register Account test ---
